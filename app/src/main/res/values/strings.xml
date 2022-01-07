@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student</string>
+
+    <string name="invalid_input">Invalid Input</string>
+    <string name="please_select_photo">Please select photo</string>
+    <string name="please_fill_data">Please fill data</string>
+    <string name="should_allow_permission">Shoull allow permission</string>
+    <string name="some_permission_denied">Some permission denied</string>
+
+</resources>
